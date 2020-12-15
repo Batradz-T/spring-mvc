@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd90d34b-5386-4c90-9c85-660f65161a69" name="Default Changelist" comment="" />
+    <list default="true" id="bd90d34b-5386-4c90-9c85-660f65161a69" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/2.2.2. spring_mvc/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.2. spring_mvc/target/Spring_MVC/WEB-INF/classes/web/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2.2. spring_mvc/target/classes/web/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/2.2.2. spring_mvc/target/classes/web/controller/HelloController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/2.2.2. spring_mvc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -36,6 +39,19 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -49,6 +65,7 @@
       <workItem from="1607693372832" duration="21000" />
       <workItem from="1607700762617" duration="82000" />
       <workItem from="1607701430161" duration="84000" />
+      <workItem from="1607965194359" duration="9000" />
     </task>
     <servers />
   </component>
